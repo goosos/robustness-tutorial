@@ -4,7 +4,7 @@
 
 > **✅ Tested:** vectorbt 1.1.1 · Python 3.12 · Last verified: 2026-10-08 · [Update policy](https://goosos.com/about#freshness)
 
-> **📊 Market snapshot** (as of 2026-10-08): SPY $777.22 · QQQ $757.73 · BTC $82,946 · ETH $2,571 — for context on when this was written.
+> **📊 Market snapshot** (as of 2026-10-08): SPY $777.22 · QQQ $757.73 · BTC $82,790 · ETH $2,566 — for context on when this was written.
 
 **Target keyword:** parameter robustness overfitting plateau
 **Meta description:** A parameter that works at 20 but breaks at 21 is noise, not a finding. Learn the plateau test: real data on 1,515 MA combinations shows the "best" params are a fragile peak while MA(20,50) sits on solid ground.
